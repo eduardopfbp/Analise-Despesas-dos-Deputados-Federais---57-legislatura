@@ -1,9 +1,9 @@
 venv_politica/
 backup/
-database/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
 notebooks/api_github.ipynb
 sql/
+database/merged_despesas_final_completa.csv
